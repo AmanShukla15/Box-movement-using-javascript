@@ -5,7 +5,7 @@ let downs = document.getElementById("down");
 let box = document.getElementById("box");
 let section1 = document.getElementById("section1");
 
-let a = 50;
+let a = 0;
 let b = 50;
 let breadth = section1.offsetWidth;
 let height = section1.offsetHeight;
