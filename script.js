@@ -6,7 +6,7 @@ let box = document.getElementById("box");
 let section1 = document.getElementById("section1");
 
 let a = 0;
-let b = 50;
+let b = 0;
 let breadth = section1.offsetWidth;
 let height = section1.offsetHeight;
 console.log(breadth);
